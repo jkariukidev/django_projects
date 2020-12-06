@@ -3,4 +3,4 @@
 Projects based on django tutorials from different references.
 
 1. Polls app from the official django online documentation [here](https://docs.djangoproject.com).
-2. 
+2. Meetings scheduler app from [pluralsight](https://pluralsight.com)
