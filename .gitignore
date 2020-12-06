@@ -185,11 +185,18 @@ cmake-build-*/
 # File-based project format
 *.iws
 
+/shelf/
+/workspace.xml
+
 # IntelliJ
 out/
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
+
+/dataSources.local.xml
+
+/httpRequests/
 
 # JIRA plugin
 atlassian-ide-plugin.xml
